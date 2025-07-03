@@ -1,0 +1,10 @@
+{
+  "spot": {
+    "api_key": "gAAAAABoZWJppsbP3spHoNaS1pxDwP_UqdoFf-AMBfBWc8zsW8cqgmcYbJX3JHZeKSxQCrrcMGcLZucKdZ0eimwtNRWEaK-B6A==",
+    "api_secret": "gAAAAABoZWJpDV-xvwcxEuW_Czs_EmuPYgdyPyD8NVYSBI71ZA5S7RgjwlTshMpz-q4JhvddchDsHkSn0EmtdkUJJItlhYGJiA=="
+  },
+  "testnet": {
+    "api_key": "gAAAAABoZWJpcGPuoc6n3fKCfG0fYaRcW2bCdpxt5TtA1fQbdWNKdVApzmFJZLiq81ESfgDhVjFv7CUWe7jmpMH8K1IY85osv0OdTyCa8CCAuXF8FXnlFMhSvMp5Bzjx50IUyIrz4QX1Rb53nNB6vunE4VWEdUjs4cNTJWo04ifIvN8CWriMhjk=",
+    "api_secret": "gAAAAABoZWJpZSIXKB1BR5ylnRJAC_p1xoox7PCPEp0VlBFk3PHX9yo_81lL_ZJ3mS4-MNY6vpLhyJGAyi35lBk8VkcY0q7fkqk0YaoeCQ5i_RGwzcKhr5pX2dzOySNA7ndySst5vWFJ_34plAK3mkUjXSG-9dd0xJptvtdzsc7vuVk_I6L5er0="
+  }
+}
